@@ -13,7 +13,7 @@ export default {
         }
       },
       fontFamily: {
-        sans: ['Inter', 'sans-serif'],
+        sans: ['Bebas Neue', 'League Spartan', 'Inter', 'sans-serif'],
         display: ['Poppins', 'sans-serif'],
       },
     },
