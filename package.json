@@ -2,7 +2,7 @@
   "name": "steam-and-soul-menu",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://pradumkr.github.io/steamnsoul",
+  "homepage": "https://menu.steamandsoul.in",
   "type": "module",
   "scripts": {
     "dev": "vite",
