@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import menuData, { MenuItem } from './data/menuData';
 import MenuSection from './components/MenuSection';
 import ItemModal from './components/ItemModal';
-import watermarkImg from './assets/SandSLogo.jpg';
+import watermarkImg from './assets/steamnsoul.jpeg';
 
 function App() {
   const [selectedItem, setSelectedItem] = useState<MenuItem | null>(null);
@@ -17,21 +17,21 @@ function App() {
   return (
     <div className="min-h-screen bg-black text-white relative">
       {/* Background Image with Blur */}
-      <div className="fixed inset-0 z-0">
+      {/* <div className="fixed inset-0 z-0">
         <img
           src="https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg"
           alt="Background"
           className="w-full h-full object-cover opacity-60"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-black via-black/95 to-black"></div>
-      </div>
+      </div> */}
 
       {/* Watermark */}
       <div className="fixed inset-0 flex items-center justify-center z-0 pointer-events-none">
         <img
           src={watermarkImg}
           alt="Watermark"
-          className="w-120 h-120 opacity-10"
+          className="max-w-none w-auto h-auto min-w-full min-h-full object-contain opacity-10"
         />
         {/* <h1 className="text-[20vw] font-bold text-white/5 rotate-[-20deg] select-none">
           S&S
