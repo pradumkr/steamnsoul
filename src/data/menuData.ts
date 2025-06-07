@@ -171,7 +171,7 @@ const menuData: MenuData = {
     {
       id: "paneer-1",
       name: "Paneer Steam Momo",
-      price: "₹90",
+      price: "₹80",
       description: "Spicy paneer, schezwan sauce",
       longDescription: "Our signature spicy paneer momos tossed in house-made schezwan sauce. Not for the faint-hearted!",
       image: paneerSteamMomoImage,
@@ -182,7 +182,7 @@ const menuData: MenuData = {
     {
       id: "paneer-2",
       name: "Paneer Fry Momo",
-      price: "₹100",
+      price: "₹90",
       description: "Spicy paneer filling, herbs",
       longDescription: "Delicious paneer mixed with spices and herbs, wrapped in a thin dough and fried to perfection.",
       image: paneerFryMomoImage,
@@ -193,7 +193,7 @@ const menuData: MenuData = {
     {
       id: "paneer-3",
       name: "Paneer Butter Pan Fry Momo",
-      price: "₹100",
+      price: "₹110",
       description: "Spicy paneer filling, herbs",
       longDescription: "Delicious paneer mixed with spices and herbs, wrapped in a thin dough and fried to perfection.",
       image: paneerButterPanFryMomoImage,
@@ -204,7 +204,7 @@ const menuData: MenuData = {
     {
       id: "paneer-4",
       name: "Paneer Cheese Momo",
-      price: "₹100",
+      price: "₹130",
       description: "Spicy paneer, schezwan sauce",
       longDescription: "Our signature spicy paneer momos tossed in house-made schezwan sauce. Not for the faint-hearted!",
       image: paneerCheeseMomoImage,
@@ -215,7 +215,7 @@ const menuData: MenuData = {
     {
       id: "paneer-5",
       name: "Paneer Cheese Fry Momo",
-      price: "₹120",
+      price: "₹140",
       description: "Butter-fried paneer, herbs",
       longDescription: "Paneer sautéed in butter with a blend of herbs, served in a crispy momo shell.",
       image: paneerCheeseFryMomoImage,
@@ -226,7 +226,7 @@ const menuData: MenuData = {
     {
       id: "paneer-6",
       name: "Paneer Kurkure Momo",
-      price: "₹120",
+      price: "₹140",
       description: "Butter-fried paneer, herbs",
       longDescription: "Paneer sautéed in butter with a blend of herbs, served in a crispy momo shell.",
       image: paneerKurkureMomoImage,
@@ -237,7 +237,7 @@ const menuData: MenuData = {
     {
       id: "paneer-7",
       name: "Paneer Gravy Momo",
-      price: "₹120",
+      price: "₹150",
       description: "Butter-fried paneer, herbs",
       longDescription: "Paneer sautéed in butter with a blend of herbs, served in a crispy momo shell.",
       image: paneerGravyMomoImage,
@@ -248,7 +248,7 @@ const menuData: MenuData = {
     {
       id: "paneer-8",
       name: "Paneer Chilli Momo",
-      price: "₹120",
+      price: "₹150",
       description: "Butter-fried paneer, herbs",
       longDescription: "Paneer sautéed in butter with a blend of herbs, served in a crispy momo shell.",
       image: paneerChilliMomoImage,
@@ -259,7 +259,7 @@ const menuData: MenuData = {
     {
       id: "paneer-9",
       name: "Paneer Afghani Momo",
-      price: "₹120",
+      price: "₹160",
       description: "Butter-fried paneer, herbs",
       longDescription: "Paneer sautéed in butter with a blend of herbs, served in a crispy momo shell.",
       image: paneerAfghaniMomoImage,
@@ -360,7 +360,7 @@ const menuData: MenuData = {
     {
       id: "prawn-9",
       name: "Prawn Afghani Momo",
-      price: "₹150",
+      price: "₹160",
       description: "Butter-fried prawns, herbs",
       longDescription: "Prawns sautéed in butter with a blend of herbs, served in a crispy momo shell.",
       image: prawnAfghaniMomoImage,
@@ -373,7 +373,7 @@ const menuData: MenuData = {
     {
       id: "mutton-1",
       name: "Mutton Steam Momo",
-      price: "₹130",
+      price: "₹120",
       description: "Spicy mutton, schezwan sauce",
       longDescription: "Our signature spicy mutton momos tossed in house-made schezwan sauce. Not for the faint-hearted!",
       image: muttonSteamMomoImage,
@@ -384,7 +384,7 @@ const menuData: MenuData = {
     {
       id: "mutton-2",
       name: "Mutton Fry Momo",
-      price: "₹140",
+      price: "₹130",
       description: "Spicy mutton filling, herbs",
       longDescription: "Delicious mutton mixed with spices and herbs, wrapped in a thin dough and fried to perfection.",
       image: muttonFryMomoImage,
@@ -395,7 +395,7 @@ const menuData: MenuData = {
     {
       id: "mutton-3",
       name: "Mutton Butter Pan Fry Momo",
-      price: "₹160",
+      price: "₹150",
       description: "Butter-fried mutton, herbs",
       longDescription: "Mutton sautéed in butter with a blend of herbs, served in a crispy momo shell.",
       image: muttonButterPanFryMomoImage,
@@ -406,7 +406,7 @@ const menuData: MenuData = {
     {
       id: "mutton-4",
       name: "Mutton Kurkure Momo",
-      price: "₹160",
+      price: "₹170",
       description: "Butter-fried mutton, herbs",
       longDescription: "Mutton sautéed in butter with a blend of herbs, served in a crispy momo shell.",
       image: muttonKurkureMomoImage,
