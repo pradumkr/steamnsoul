@@ -151,7 +151,7 @@ const menuData: MenuData = {
       description: "Minced chicken, fresh herbs, spring onions",
       longDescription: "Succulent minced chicken mixed with aromatic herbs and spring onions. Our bestseller.",
       image: chickenChillyMomoImage,
-      spiceLevel: "Medium",
+      spiceLevel: "Extra Hot",
       ingredients: ["Chicken", "Mixed Herbs", "Spring Onions", "Garlic", "Black Pepper"],
       isVegetarian: false
     },
@@ -175,7 +175,7 @@ const menuData: MenuData = {
       description: "Spicy paneer, schezwan sauce",
       longDescription: "Our signature spicy paneer momos tossed in house-made schezwan sauce. Not for the faint-hearted!",
       image: paneerSteamMomoImage,
-      spiceLevel: "Extra Hot",
+      spiceLevel: "Mild",
       ingredients: ["Paneer", "Schezwan Sauce", "Dried Red Chilies", "Garlic"],
       isVegetarian: true
     },
@@ -208,7 +208,7 @@ const menuData: MenuData = {
       description: "Spicy paneer, schezwan sauce",
       longDescription: "Our signature spicy paneer momos tossed in house-made schezwan sauce. Not for the faint-hearted!",
       image: paneerCheeseMomoImage,
-      spiceLevel: "Extra Hot",
+      spiceLevel: "Medium",
       ingredients: ["Paneer", "Schezwan Sauce", "Dried Red Chilies", "Garlic"],
       isVegetarian: true
     },
@@ -252,7 +252,7 @@ const menuData: MenuData = {
       description: "Butter-fried paneer, herbs",
       longDescription: "Paneer sautéed in butter with a blend of herbs, served in a crispy momo shell.",
       image: paneerChilliMomoImage,
-      spiceLevel: "Medium",
+      spiceLevel: "Extra Hot",
       ingredients: ["Paneer", "Butter", "Herbs"],
       isVegetarian: true
     },
@@ -276,7 +276,7 @@ const menuData: MenuData = {
       description: "Chargrilled cottage cheese momos",
       longDescription: "Momos stuffed with spiced paneer, grilled in our tandoor. Served with mint chutney.",
       image: prawnSteamMomoImage,
-      spiceLevel: "Hot",
+      spiceLevel: "Mild",
       ingredients: ["Paneer", "Tandoori Spices", "Bell Peppers", "Onions"],
       isVegetarian: false
     },
@@ -353,7 +353,7 @@ const menuData: MenuData = {
       description: "Butter-fried prawns, herbs",
       longDescription: "Prawns sautéed in butter with a blend of herbs, served in a crispy momo shell.",
       image: prawnChilliMomoImage,
-      spiceLevel: "Medium",
+      spiceLevel: "Extra Hot",
       ingredients: ["Prawns", "Butter", "Herbs"],
       isVegetarian: false
     },
@@ -377,7 +377,7 @@ const menuData: MenuData = {
       description: "Spicy mutton, schezwan sauce",
       longDescription: "Our signature spicy mutton momos tossed in house-made schezwan sauce. Not for the faint-hearted!",
       image: muttonSteamMomoImage,
-      spiceLevel: "Extra Hot",
+      spiceLevel: "Mild",
       ingredients: ["Mutton", "Schezwan Sauce", "Dried Red Chilies", "Garlic"],
       isVegetarian: false
     },
@@ -413,16 +413,6 @@ const menuData: MenuData = {
       spiceLevel: "Medium",
       ingredients: ["Mutton", "Butter", "Herbs"],
       isVegetarian: false
-    }
-  ],
-  "Beverages": [
-    {
-      id: "bev-1",
-      name: "Lemon Soda",
-      price: "₹20",
-      description: "Refreshing lemon soda",
-      longDescription: "Chilled lemon soda with a hint of mint and spices.",
-      image: "https://images.pexels.com/photos/1793035/pexels-photo-1793035.jpeg"
     }
   ]
 };
